@@ -17,6 +17,6 @@ that helps organizations manage their employee data, recruitment, performance ma
 **NOTE:**
 
 **Files specificaions:**
-                     Using Page Object Model (POM) - modelTestCases, webElementsClasses.
-                     Cross Browser Testing - crossBrowserTesting.
-                     Cucumber Files -cucumberFeatures, cucumberSteps, cucumberTestRunner.
+                     **Using Page Object Model (POM) -** modelTestCases, webElementsClasses.
+                     **Cross Browser Testing -** crossBrowserTesting.
+                    **Cucumber Files-** cucumberFeatures, cucumberSteps, cucumberTestRunner.
